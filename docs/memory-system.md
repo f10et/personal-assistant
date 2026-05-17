@@ -63,7 +63,7 @@ Use `memory/daily/YYYY-MM-DD.md`.
 
 Initial manual cadence:
 
-- Daily: capture commitments, follow-ups, and memory candidates.
+- Daily: capture commitments, follow-ups, planning context, and memory candidates.
 - Weekly: review open loops, calendar shape, finance/admin tasks, relationship follow-ups, and promote durable memory.
 - Monthly: review bills/subscriptions, tax/admin documents, investment/crypto notes, and stale memory.
 

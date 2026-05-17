@@ -13,6 +13,7 @@ This file contains durable, high-signal facts and preferences the assistant shou
 
 - Optimize planning around: important thing first, wife happy.
 - Primary private-life assistance areas: day/week planning, finance admin, relationship follow-through, email/calendar management, note/document organization.
+- The user prefers daily planning as the default cadence.
 - Work-related pain points to remember as background context: context switching, follow-ups, build time, and occasional debugging.
 
 ## Tools And Sources Of Truth
