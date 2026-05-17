@@ -9,6 +9,7 @@ Before making changes, read:
 1. `MEMORY.md`
 2. `docs/assistant-operating-principles.md`
 3. Any relevant `memory/areas/*.md` file
+4. `ROADMAP.md` when deciding what to build next
 
 ## Workflow
 
