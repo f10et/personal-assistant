@@ -14,6 +14,7 @@ The current design is local-first and Markdown-first. Important facts, preferenc
 
 ## Structure
 
+- `AGENTS.md` - repo instructions for future assistant sessions.
 - `MEMORY.md` - durable long-term memory: stable facts, preferences, principles, and decisions.
 - `DREAMS.md` - review log for memory consolidation and candidate promotions.
 - `memory/daily/` - daily working notes, observations, and follow-ups.
