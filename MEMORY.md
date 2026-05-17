@@ -35,6 +35,7 @@ This file contains durable, high-signal facts and preferences the assistant shou
 - Prefer visible memory in files over hidden or implicit memory.
 - Keep financial recommendations grounded, practical, and clearly marked when professional advice is appropriate.
 - Do not overbuild before a workflow has proven useful.
+- Treat commits as checkpoints, not stopping points; continue into the next useful step unless the user asks to pause.
 
 ## Repo Workflow
 

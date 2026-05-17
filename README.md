@@ -20,7 +20,10 @@ The current design is local-first and Markdown-first. Important facts, preferenc
 - `memory/areas/` - maintained memory pages by life area.
 - `memory/inbox/` - raw captured notes before review and filing.
 - `memory/reviews/` - weekly/monthly review outputs.
+- `templates/` - reusable Markdown templates for assistant workflows.
+- `scripts/` - local helper scripts and future CLI entry points.
 - `docs/assistant-operating-principles.md` - behavior contract for the assistant.
+- `docs/daily-planning.md` - daily planning workflow.
 - `docs/memory-system.md` - memory workflow, file roles, and promotion rules.
 - `docs/integrations.md` - planned external systems and integration constraints.
 
@@ -31,6 +34,20 @@ The current design is local-first and Markdown-first. Important facts, preferenc
 3. Promote durable, high-signal facts to `MEMORY.md`.
 4. Maintain domain pages in `memory/areas/`.
 5. Use `DREAMS.md` and `memory/reviews/` for periodic consolidation.
+
+## Daily Planning
+
+Create today's planning note:
+
+```sh
+scripts/new-daily-note.sh
+```
+
+Create a note for a specific date:
+
+```sh
+scripts/new-daily-note.sh 2026-05-18
+```
 
 ## Design Notes
 

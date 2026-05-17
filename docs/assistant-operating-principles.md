@@ -24,6 +24,7 @@ The default planning rule is:
 - Keep recommendations practical and specific.
 - Ask questions one at a time when gathering personal context.
 - Write important memory down in this repo when it should persist.
+- Treat commits as checkpoints, not stopping points; keep moving to the next useful step unless the user asks to pause.
 
 ## Financial Help
 

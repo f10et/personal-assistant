@@ -14,6 +14,8 @@ This structure is inspired by OpenClaw's memory model: durable memory, daily not
 | `memory/inbox/` | Raw captured material before filing. |
 | `memory/areas/` | Maintained context by life area. |
 | `memory/reviews/` | Weekly/monthly review outputs. |
+| `templates/` | Reusable Markdown templates for memory and planning workflows. |
+| `scripts/` | Helper scripts and future CLI entry points. |
 
 ## Promotion Rules
 
@@ -33,7 +35,7 @@ Do not promote:
 
 ## Daily Note Template
 
-Use `memory/daily/YYYY-MM-DD.md`.
+Use `memory/daily/YYYY-MM-DD.md`. New notes can be created with `scripts/new-daily-note.sh`.
 
 ```markdown
 # YYYY-MM-DD
